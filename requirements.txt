@@ -1,0 +1,13 @@
+-i https://pypi.org/simple
+dataclasses==0.8; python_version < '3.7'
+joblib==1.0.1; python_version >= '3.6'
+kornia==0.4.1
+numpy==1.19.2
+pillow==8.0.1
+scikit-learn==0.23.2
+scipy==1.5.4; python_version >= '3.6'
+threadpoolctl==2.1.0; python_version >= '3.5'
+torch==1.7.1
+torchvision==0.8.2
+tqdm==4.54.1
+typing-extensions==3.10.0.0
